@@ -4,13 +4,13 @@
 
 [Expo version](https://expo.io/) of the application developed in the **[Starter / React Native Course](https://rocketseat.com.br/starter)** by **[Rocketseat](https://rocketseat.com.br/)**.
 
-It consists of a mobile application to expose the API built in the [huntapi project](https://rhenangarcia.github.io/huntapi/), displaying the digital products stored in the Mongo database.
+It consists of a mobile application to expose the API built in the [huntapi project](https://github.com/rhenangarcia/huntapi), displaying the digital products stored in the Mongo database.
 
 > [Why use Expo?](https://docs.expo.io/workflow/already-used-react-native/)
 
 ## 🌎 Demonstration
 To help visualize the application, a demonstration was set up using [Rocketseat's API](https://rocketseat-node.herokuapp.com/api/products) as backend:
-* **[Click here](https://snack.expo.io/@z10n/1f4916)** to see it on **browser**;
+* **[Click here](https://snack.expo.io/@z10n/huntexpo-preview)** to see it on **browser**;
 * **[Click here](https://expo.io/@z10n/huntexpo)** to know how to open inside the **Expo app**.
 
 ## 🧰 Prerequisites
